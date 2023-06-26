@@ -1,6 +1,8 @@
 # LTPS
 LTPS (**L**ow **T**emperature **P**ower **S**ystem) is a power supply board designed for high-altitude balloon applications.
-It provides three step-up converters and load switches as well as an ADC which can be read via I2C.
+It provides three step-up converters and load switches as well as an ADC which can be read via I2C. <br>
+The smb connector on the upper left side is part of the "remove before flight" circuitry, you can use a shorted out smb plug to disable the whole
+LTPS system.
 
 ![alt text](pictures/LTPS_renderview.jpg)
 
@@ -19,7 +21,7 @@ One can see the bodge on the upper left of the PCB, I also fixed up some spacing
 
 ![alt text](pictures/LTPS_sideview.jpg)
 
-The board is designed to hold three "SAFT M52 LiMno2" cells which are ideal for high-altitude ballooning, but expensive, one can 
+The board is designed to hold three "SAFT M52 LiMnO2" cells which are ideal for high-altitude ballooning, but expensive, one can 
 use some other (lithium cells) in "C" size.
 
 Please consult the schematic and the according datasheets for modifications etc.
