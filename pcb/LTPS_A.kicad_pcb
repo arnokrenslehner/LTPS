@@ -4535,10 +4535,10 @@
     )
   )
 
-  (gr_rect (start 85.852 72.898) (end 94.996 99.822) (layer "F.Mask") (width 0.2) (fill solid) (tstamp f46a6695-81c4-486d-b286-c876c2428dc7))
+  (gr_rect (start 85.852 66.898) (end 94.996 105.822) (layer "F.Mask") (width 0.2) (fill solid) (tstamp f46a6695-81c4-486d-b286-c876c2428dc7))
   (gr_rect (start 91.694 44.196) (end 110.49 41.148) (layer "F.Mask") (width 0.2) (fill solid) (tstamp f5ae4f16-800e-4bdb-b3cd-3df7a98dc3ce))
   (gr_rect (start 84 37.5) (end 204 137.5) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp fe97108c-9388-4178-82eb-c489f073e39f))
-  (gr_text "LTPS\nMay 2023\nVersion 1.1" (at 90.424 86.36 270) (layer "F.Cu") (tstamp 9889c99e-040d-456e-ba0a-9c7961c67f12)
+  (gr_text "LTPS\nLicensed under CERN-OHL-W v2\nVersion 1.1 - May 2023" (at 90.424 86.36 270) (layer "F.Cu") (tstamp 9889c99e-040d-456e-ba0a-9c7961c67f12)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "REMOVE BEFORE FLIGHT" (at 101.092 42.672) (layer "F.Cu") (tstamp f6ba19b2-e64c-4266-a133-ddd9162ae4e7)

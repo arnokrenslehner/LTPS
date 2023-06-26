@@ -19,6 +19,12 @@
   )
 
 
+  (text "Copyright CERN 2020.\nThis source describes Open Hardware and is licensed under the CERN-OHLW v2\nYou may redistribute and modify this documentation and make products\nusing it under the terms of the CERN-OHL-W v2 (https:/cern.ch/cern-ohl).\nThis documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED\nWARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY\nAND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-W v2\nfor applicable conditions.\nSource location: https://github.com/arnokrenslehner/LTPS\nAs per CERN-OHL-W v2 section 4.1, should You produce hardware based on\nthese sources."
+    (at 39.37 238.76 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid f147520a-ecc2-4b7e-b9c3-9b0e6b1e15d3)
+  )
+
   (sheet (at 162.56 26.67) (size 101.6 76.2) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
