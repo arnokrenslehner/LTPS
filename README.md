@@ -8,9 +8,10 @@ The board measures 120*100mm, its 4 layers.
 
 ## PCB Production and part procurement  
 The design is optimized to the standard JLC-PCB 4-layer process.
-I bought the parts from Mouser, passives, etc. all automotive types.
+I bought the parts from Mouser, all automotive types because its just a private project 
+I can't provide you a "clean" BOM.
 
-This version incorporates all bugfixes from the first one i built:
+This version here incorporates all bugfixes from the first one i built:
 
 ![alt text](pictures/LTPS_topview.jpg)
 
