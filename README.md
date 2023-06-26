@@ -13,7 +13,7 @@ The design is optimized to the standard JLC-PCB 4-layer process.
 I bought the parts from Mouser, all automotive types. Because it's just a private project 
 I can't provide you with a "clean" BOM.
 
-This version here incorporates all bugfixes from the first one i built:
+This version here incorporates all bugfixes from the first one I built:
 
 ![alt text](pictures/LTPS_topview.jpg)
 
